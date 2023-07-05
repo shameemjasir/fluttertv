@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:fluttertv/screens/home.dart';
 
 void main() {
@@ -11,12 +12,17 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter TV',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+    return Shortcuts(
+      shortcuts: <LogicalKeySet, Intent>{
+        LogicalKeySet(LogicalKeyboardKey.select): const ActivateIntent(),
+      },
+      child: MaterialApp(
+        title: 'Flutter TV',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: const StartPage(title: 'Flutter TV'),
       ),
-      home: const StartPage(title: 'Flutter TV'),
     );
   }
 }
@@ -32,7 +38,7 @@ class StartPage extends StatelessWidget {
       appBar: AppBar(
         title: Text(title),
       ),
-      body:  Home(),
+      body: Home(),
     );
   }
 }

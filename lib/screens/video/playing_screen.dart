@@ -10,27 +10,16 @@ class PlayingScreen extends StatefulWidget {
 
 class _PlayingScreenState extends State<PlayingScreen> {
   final FocusNode _playButtonFocusNode = FocusNode();
-  FocusNode _currentFocus = FocusNode();
-  final FocusNode _backFocusNode = FocusNode();
+ 
 
   @override
   void initState() {
     _playButtonFocusNode.requestFocus();
-    _currentFocus = _playButtonFocusNode;
-      _playButtonFocusNode.addListener(_onFocusChange);
+    
     super.initState();
   }
 
-    void _onFocusChange() {
-    if (_playButtonFocusNode.hasFocus) {
-      _currentFocus = _playButtonFocusNode;
-    } else if (_backFocusNode.hasFocus) {
-      _currentFocus = _backFocusNode;
-    }
-    if (mounted) {
-      setState(() {});
-    }
-  }
+  
 
   @override
   Widget build(BuildContext context) {
@@ -41,6 +30,18 @@ class _PlayingScreenState extends State<PlayingScreen> {
         child: Stack(
           children: [
             imageWidget(),
+            //    Positioned(
+            //   left: 10,
+            //   child: IconButtonSection(
+            //     size: 30,
+            //     activeFocusNode: _currentFocus,
+            //     focusNode: _backFocusNode,
+            //     onPressed: () {
+            //       Navigator.pop(context);
+            //     },
+            //     icon: Icons.arrow_back,
+            //   ),
+            // ),
           ],
         ),
       ),
