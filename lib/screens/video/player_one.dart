@@ -1,34 +1,34 @@
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 
-class Player extends StatefulWidget {
-  const Player({super.key});
+class PlayerOne extends StatefulWidget {
+  const PlayerOne({super.key});
 
   @override
-  State<Player> createState() => _PlayerState();
+  State<PlayerOne> createState() => _PlayerOneState();
 }
 
-class _PlayerState extends State<Player> {
+class _PlayerOneState extends State<PlayerOne> {
   late VideoPlayerController _controller;
-  String videoDuration = "";
-  String videoCurrentTime = "";
 
   @override
   void initState() {
     super.initState();
-    loadVideoPlayer();
+    loadVideoPlayer1();
   }
 
-  loadVideoPlayer() {
-    _controller = VideoPlayerController.networkUrl(Uri.parse(
-        "https://player.vimeo.com/external/801505110.m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6"));
+  loadVideoPlayer1() {
+    _controller = VideoPlayerController.networkUrl(
+      Uri.parse(
+          "https://player.vimeo.com/external/802188507.m3u8?s=ae4a720c77f5f3a6315973ecd6a9c9a4a07b2e09"),
+    );
 
-    _controller.addListener(() {
-      setState(() {});
+    _controller.initialize().then((value) {
+      _controller.play();
+      if (mounted) {
+        setState(() {});
+      }
     });
-    _controller.setLooping(true);
-    _controller.initialize().then((_) => setState(() {}));
-    _controller.play();
   }
 
   @override
@@ -40,7 +40,6 @@ class _PlayerState extends State<Player> {
         width: MediaQuery.of(context).size.width,
         child: _controller.value.isInitialized
             ? VideoPlayer(_controller)
-            
             : const Center(
                 child: CircularProgressIndicator(color: Colors.grey),
               ),

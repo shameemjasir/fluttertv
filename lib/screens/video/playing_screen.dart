@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertv/screens/video/player.dart';
+import 'package:fluttertv/screens/video/player_controls.dart';
+import 'package:fluttertv/screens/video/player_one.dart';
 
 class PlayingScreen extends StatefulWidget {
   const PlayingScreen({super.key});
@@ -10,16 +12,13 @@ class PlayingScreen extends StatefulWidget {
 
 class _PlayingScreenState extends State<PlayingScreen> {
   final FocusNode _playButtonFocusNode = FocusNode();
- 
 
   @override
   void initState() {
     _playButtonFocusNode.requestFocus();
-    
+
     super.initState();
   }
-
-  
 
   @override
   Widget build(BuildContext context) {
@@ -75,9 +74,9 @@ class _PlayingScreenState extends State<PlayingScreen> {
               ),
             ),
             Positioned(
-              bottom: 0,
+              bottom: 10,
               child: Container(
-                height: 200,
+                height: 300,
                 width: MediaQuery.of(context).size.width,
                 padding: const EdgeInsets.all(20),
                 child: Column(
@@ -130,42 +129,68 @@ class _PlayingScreenState extends State<PlayingScreen> {
               ),
             ),
             Positioned(
-              bottom: 0,
-              right: 0,
+              bottom: 20,
+              right: 10,
               child: Container(
-                height: 150,
-                padding: const EdgeInsets.all(20),
+                height: 250,
+                padding: const EdgeInsets.all(4),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
                     FilledButton(
-                        focusNode: _playButtonFocusNode,
-                        onPressed: () {
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => const Player(),
-                            ),
-                          );
-
-                          // Navigator.pushAndRemoveUntil(
-                          //   context,
-                          //   MaterialPageRoute(
-                          //     builder: (context) => VideoScreenTest(
-                          //       videoId: widget.poster.trailer.url!,
-                          //       thumbnail: widget.poster.cover,
-                          //     ),
-                          //   ),
-                          //       (route) => false,
-                          // );
-                        },
-                        child: const Text(
-                          'Play Trailer',
-                          style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 20,
+                      focusNode: _playButtonFocusNode,
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const Player(),
                           ),
-                        )),
+                        );
+                      },
+                      child: const Text(
+                        'PlayerOne',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 20,
+                        ),
+                      ),
+                    ),
+                    FilledButton(
+                      focusNode: _playButtonFocusNode,
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const PlayerOne(),
+                          ),
+                        );
+                      },
+                      child: const Text(
+                        'Player',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 20,
+                        ),
+                      ),
+                    ),
+                    FilledButton(
+                      focusNode: _playButtonFocusNode,
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const PlayerControls(),
+                          ),
+                        );
+                      },
+                      child: const Text(
+                        'Play with Controls',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 20,
+                        ),
+                      ),
+                    ),
                   ],
                 ),
               ),
