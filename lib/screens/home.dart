@@ -10,9 +10,10 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  final FocusNode _playButtonFocusNode = FocusNode();
-  final FocusNode _carouselFocusNode = FocusNode();
   IconData _selectdIcon = Icons.laptop;
+
+  FocusNode? _playButtonFocusNode;
+  FocusNode? _carouselFocusNode;
   FocusNode? _icon1FocusNode;
   FocusNode? _icon2FocusNode;
   FocusNode? _icon3FocusNode;
@@ -26,6 +27,8 @@ class _HomeState extends State<Home> {
 
   void _setFirstFocus(BuildContext context) {
     if (_icon1FocusNode == null) {
+      _playButtonFocusNode = FocusNode();
+      _carouselFocusNode = FocusNode();
       _icon1FocusNode = FocusNode();
       _icon2FocusNode = FocusNode();
       _icon3FocusNode = FocusNode();
@@ -76,7 +79,7 @@ class _HomeState extends State<Home> {
                         RightButtonIntent: CallbackAction<RightButtonIntent>(
                             onInvoke: (Intent) {
                           _selectdIcon = Icons.image;
-                          return _changeFocus(context, _carouselFocusNode);
+                          return _changeFocus(context, _carouselFocusNode!);
                         }),
                         UpButtonIntent:
                             CallbackAction<UpButtonIntent>(onInvoke: (Intent) {
@@ -91,7 +94,7 @@ class _HomeState extends State<Home> {
                       },
                       child: ElevatedButton.icon(
                         style: ButtonStyle(
-                          backgroundColor: !_playButtonFocusNode.hasFocus
+                          backgroundColor: !_playButtonFocusNode!.hasFocus
                               ? null
                               : MaterialStateProperty.all<Color>(
                                   const Color.fromARGB(255, 13, 82, 139)),
@@ -114,7 +117,7 @@ class _HomeState extends State<Home> {
                         LeftButtonIntent: CallbackAction<LeftButtonIntent>(
                             onInvoke: (Intent) {
                           _selectdIcon = Icons.image;
-                          return _changeFocus(context, _playButtonFocusNode);
+                          return _changeFocus(context, _playButtonFocusNode!);
                         }),
                         RightButtonIntent: CallbackAction<RightButtonIntent>(
                             onInvoke: (Intent) {
@@ -135,7 +138,7 @@ class _HomeState extends State<Home> {
                       child: ElevatedButton.icon(
                         focusNode: _carouselFocusNode,
                         style: ButtonStyle(
-                          backgroundColor: !_carouselFocusNode.hasFocus
+                          backgroundColor: !_carouselFocusNode!.hasFocus
                               ? null
                               : MaterialStateProperty.all<Color>(
                                   const Color.fromARGB(255, 6, 117, 84)),
@@ -180,12 +183,12 @@ class _HomeState extends State<Home> {
                       UpButtonIntent:
                           CallbackAction<UpButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.play_arrow;
-                        return _changeFocus(context, _playButtonFocusNode);
+                        return _changeFocus(context, _playButtonFocusNode!);
                       }),
-                       DownButtonIntent:
+                      DownButtonIntent:
                           CallbackAction<DownButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.image;
-                        return _changeFocus(context, _carouselFocusNode);
+                        return _changeFocus(context, _carouselFocusNode!);
                       }),
                     },
                     child: Focus(
@@ -221,15 +224,15 @@ class _HomeState extends State<Home> {
                         _selectdIcon = Icons.desktop_mac;
                         return _changeFocus(context, _icon3FocusNode!);
                       }),
-                         UpButtonIntent:
+                      UpButtonIntent:
                           CallbackAction<UpButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.play_arrow;
-                        return _changeFocus(context, _playButtonFocusNode);
+                        return _changeFocus(context, _playButtonFocusNode!);
                       }),
                       DownButtonIntent:
                           CallbackAction<DownButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.image;
-                        return _changeFocus(context, _carouselFocusNode);
+                        return _changeFocus(context, _carouselFocusNode!);
                       }),
                     },
                     child: Focus(
@@ -265,15 +268,15 @@ class _HomeState extends State<Home> {
                         _selectdIcon = Icons.tablet_android;
                         return _changeFocus(context, _icon4FocusNode!);
                       }),
-                         UpButtonIntent:
+                      UpButtonIntent:
                           CallbackAction<UpButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.play_arrow;
-                        return _changeFocus(context, _playButtonFocusNode);
+                        return _changeFocus(context, _playButtonFocusNode!);
                       }),
                       DownButtonIntent:
                           CallbackAction<DownButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.image;
-                        return _changeFocus(context, _carouselFocusNode);
+                        return _changeFocus(context, _carouselFocusNode!);
                       }),
                     },
                     child: Focus(
@@ -308,16 +311,18 @@ class _HomeState extends State<Home> {
                           CallbackAction<RightButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.laptop;
                         return _changeFocus(context, _icon1FocusNode!);
+             
+             
                       }),
-                         UpButtonIntent:
+                      UpButtonIntent:
                           CallbackAction<UpButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.play_arrow;
-                        return _changeFocus(context, _playButtonFocusNode);
+                        return _changeFocus(context, _playButtonFocusNode!);
                       }),
                       DownButtonIntent:
                           CallbackAction<DownButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.image;
-                        return _changeFocus(context, _carouselFocusNode);
+                        return _changeFocus(context, _carouselFocusNode!);
                       }),
                     },
                     child: Focus(
