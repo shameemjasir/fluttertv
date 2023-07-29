@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertv/screens/video/playing_screen.dart';
+import 'package:fluttertv/screens/video/slider_screen.dart';
+import 'package:fluttertv/screens/video/slider_screen1.dart';
 import 'package:fluttertv/utils/action_handler.dart';
 
 class Home extends StatefulWidget {
@@ -101,10 +103,15 @@ class _HomeState extends State<Home> {
                         ),
                         focusNode: _playButtonFocusNode,
                         onPressed: () {
-                          print('object');
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => const SliderScreen(),
+                            ),
+                          );
                         },
                         icon: const Icon(Icons.add, size: 18),
-                        label: const Text("PlayingScreen"),
+                        label: const Text("InkwellFocusColor"),
                       ),
                     ),
                   ),
@@ -153,6 +160,31 @@ class _HomeState extends State<Home> {
                         },
                         icon: const Icon(Icons.add, size: 18),
                         label: const Text("CarouselScreen"),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  SizedBox(
+                    child: Actions(
+                      actions: const <Type, Action<Intent>>{},
+                      child: ElevatedButton.icon(
+                        style: ButtonStyle(
+                          backgroundColor: !_playButtonFocusNode!.hasFocus
+                              ? null
+                              : MaterialStateProperty.all<Color>(
+                                  const Color.fromARGB(255, 13, 82, 139)),
+                        ),
+                        focusNode: _playButtonFocusNode,
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => const SliderScreen1(),
+                            ),
+                          );
+                        },
+                        icon: const Icon(Icons.add, size: 18),
+                        label: const Text("testing"),
                       ),
                     ),
                   ),
@@ -311,8 +343,6 @@ class _HomeState extends State<Home> {
                           CallbackAction<RightButtonIntent>(onInvoke: (Intent) {
                         _selectdIcon = Icons.laptop;
                         return _changeFocus(context, _icon1FocusNode!);
-             
-             
                       }),
                       UpButtonIntent:
                           CallbackAction<UpButtonIntent>(onInvoke: (Intent) {

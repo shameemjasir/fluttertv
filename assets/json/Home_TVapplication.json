@@ -1,0 +1,1053 @@
+{
+  "channels": [
+    {
+      "id": 13,
+      "title": "نجوم العلوم",
+      "image": "https://image.winudf.com/v2/image1/ZGlyaWxpc2VydHVncnVsZ2hheml3YWxscGFwZXIuZXJ0dWdydWx3YWxscGFwZXJoZC5lcnR1Z3J1bGhkd2FsbHBhcGVyLmJ1ZGR5YXBwc19zY3JlZW5fMF8xNTkyNTQ4NTE0XzA2Ng/screen-0.webp?fakeurl=1&type=.webp",
+      "poster": {
+        "id": 13,
+        "title": "نجوم العلوم",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2022,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "برامج تلفزيون قطر",
+        "image": "https://image.winudf.com/v2/image1/ZGlyaWxpc2VydHVncnVsZ2hheml3YWxscGFwZXIuZXJ0dWdydWx3YWxscGFwZXJoZC5lcnR1Z3J1bGhkd2FsbHBhcGVyLmJ1ZGR5YXBwc19zY3JlZW5fMF8xNTkyNTQ4NTE0XzA2Ng/screen-0.webp?fakeurl=1&type=.webp",
+        "cover": "https://www.hdwallpaperslife.com/wp-content/uploads/2020/06/ertugrul-ghazi.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6",
+          "url": "https://player.vimeo.com/external/801505110.m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "الكندوش",
+      "image": "https://www.qmc.qa/img/MediaContents/f2e47fc5-4a71-44a4-a68c-57ee0db844e9.jpg",
+      "poster": {
+        "id": 12,
+        "title": "الكندوش",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2016,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  شامية",
+        "image": "https://www.qmc.qa/img/MediaContents/8232be8a-5c45-475d-8b01-183c32e447dd.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/16e73dfe-e840-452b-b33f-1e3bfd84440c.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=1ccb16987e287cd501b9dff9e1edd9242a4efe6d",
+          "url": "https://player.vimeo.com/external/802188242.m3u8?s=1ccb16987e287cd501b9dff9e1edd9242a4efe6d"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "عيون عليا",
+      "image": "https://www.qmc.qa/img/MediaContents/ea2dbf93-23d7-4985-8ea0-44c83688c746.jpg",
+      "poster": {
+        "id": 11,
+        "title": "عيون عليا",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2008,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  شامية",
+        "image": "https://www.qmc.qa/img/MediaContents/2cfe3057-f5eb-4620-a03f-b909bcc41e42.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/9bc031b7-814a-4125-8607-ae492b14dcae.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392",
+          "url": "https://player.vimeo.com/external/802188553.m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "قيامة أرطغرل",
+      "image": "https://www.qmc.qa/img/MediaContents/83953ca6-e9bd-435d-804e-8b16bb87fe6e.jpg",
+      "poster": {
+        "id": 10,
+        "title": "قيامة أرطغرل",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2014,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  تاريخية",
+        "image": "https://www.qmc.qa/img/MediaContents/b88a6283-f15c-4fe9-b9d8-887fd6151a44.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/b53d5694-f11e-46d7-ba64-f495321cfc87.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=d316a3743792e0ebba3fbd5deb82deb7ba79b75c",
+          "url": "https://player.vimeo.com/external/805038440.m3u8?s=d316a3743792e0ebba3fbd5deb82deb7ba79b75c"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "عمر",
+      "image": "https://www.qmc.qa/img/MediaContents/7413ffa8-ccc3-4605-aa35-92f7e609af22.jpg",
+      "poster": {
+        "id": 9,
+        "title": "عمر",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2012,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  تاريخية",
+        "image": "https://www.qmc.qa/img/MediaContents/5d6e6ee1-b2c7-40c0-9291-68bbaeb54404.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/ba02a728-793f-4b96-9ca7-b51065dc8043.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=ae4a720c77f5f3a6315973ecd6a9c9a4a07b2e09",
+          "url": "https://player.vimeo.com/external/802188507.m3u8?s=ae4a720c77f5f3a6315973ecd6a9c9a4a07b2e09"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "مسلسل القعقاع",
+      "image": "https://www.qmc.qa/img/MediaContents/4666ffcd-6475-4a4f-b616-07113a7ac881.jpg",
+      "poster": {
+        "id": 8,
+        "title": "مسلسل القعقاع",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2010,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  تاريخية",
+        "image": "https://www.qmc.qa/img/MediaContents/c94e42b9-5495-4399-a0d4-562e1ecec6e2.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/f54a2489-48d8-4419-8e5d-b2e81bd4db21.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": null,
+          "url": "https://player.vimeo.com/external/802188553.m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "إتقان",
+      "image": "https://www.qmc.qa/img/MediaContents/8b4208e1-7a5c-4af5-b7a2-c2b90b7fc43b.jpg",
+      "poster": {
+        "id": 7,
+        "title": "إتقان",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2023,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "برامج تلفزيون قطر - رمضان 2023",
+        "image": "https://www.qmc.qa/img/MediaContents/8ac36a49-dbee-4109-9af7-351515627c9a.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/7948b264-4116-4314-bfae-418fdb6ecc62.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=f22f6e4ddf6c498302237b67991fe434849710f0",
+          "url": "https://player.vimeo.com/external/810480458.m3u8?s=f22f6e4ddf6c498302237b67991fe434849710f0"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "تصانيف",
+      "image": "https://www.qmc.qa/img/MediaContents/2fd5ea1d-7e13-43df-a707-3f4c2c010d15.jpg",
+      "poster": {
+        "id": 6,
+        "title": "تصانيف",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 1989,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  خليجية",
+        "image": "https://www.qmc.qa/img/MediaContents/f8a406a7-da5f-4f13-99a2-79b91c5db0c6.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/4c50f263-7002-4ce9-8129-a68d1cb5e305.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=c9b85938861ce2dfe6e507ca45e602b707f369ca",
+          "url": "https://player.vimeo.com/external/802188614.m3u8?s=c9b85938861ce2dfe6e507ca45e602b707f369ca"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "برنامج سفرتنا",
+      "image": "https://www.qmc.qa/img/MediaContents/82d1ad70-cc36-4851-9433-5ae7eeb1de2f.jpg",
+      "poster": {
+        "id": 5,
+        "title": "برنامج سفرتنا",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2023,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "برامج تلفزيون قطر - رمضان 2023",
+        "image": "https://www.qmc.qa/img/MediaContents/c2515207-000e-49ef-a47b-51b286352655.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/df3c06cd-df62-4627-b7fa-fcf453053f90.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=913a0a76a1a45116daa6d6c1bf133a1ca7a2200d",
+          "url": "https://player.vimeo.com/external/810480260.m3u8?s=913a0a76a1a45116daa6d6c1bf133a1ca7a2200d"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "مسلسل بعد الشتات",
+      "image": "https://www.qmc.qa/img/MediaContents/153a7327-d26d-431d-91f5-6addcd72bc10.jpg",
+      "poster": {
+        "id": 4,
+        "title": "مسلسل بعد الشتات",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2004,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  خليجية",
+        "image": "https://www.qmc.qa/img/MediaContents/9f1ff561-c41f-462f-83c7-d9deb44867ad.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/0499b3b1-21d9-47b4-8beb-3616e29327f5.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=2466ad71f78294a10f4c186fb9d61b4cdf57f2a9",
+          "url": "https://player.vimeo.com/external/802188302.m3u8?s=2466ad71f78294a10f4c186fb9d61b4cdf57f2a9"
+        },
+        "sources": null
+      },
+      "categories": [
+        {
+          "id": 0,
+          "title": ""
+        }
+      ],
+      "countries": [
+        {
+          "id": 9,
+          "title": "Qatar",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "id": 4,
+      "title": "الكندوش",
+      "type": "serie",
+      "image": "https://www.qmc.qa/img/MediaContents/8ac36a49-dbee-4109-9af7-351515627c9a.jpg",
+      "titleimage": "https://www.qmc.qa/img/MediaContents/a4344323-45fd-468f-a84b-c728181acbd1.png",
+      "poster": {
+        "id": 4,
+        "title": "الكندوش",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2016,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  شامية",
+        "image": "https://www.qmc.qa/img/MediaContents/8232be8a-5c45-475d-8b01-183c32e447dd.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/16e73dfe-e840-452b-b33f-1e3bfd84440c.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=1ccb16987e287cd501b9dff9e1edd9242a4efe6d",
+          "url": "https://player.vimeo.com/external/802188242.m3u8?s=1ccb16987e287cd501b9dff9e1edd9242a4efe6d"
+        },
+        "sources": null
+      }
+    },
+    {
+      "id": 3,
+      "title": "عيون عليا",
+      "type": "serie",
+      "image": "https://www.qmc.qa/img/MediaContents/9d78c816-6636-4cae-a75e-9b7947cc710f.jpg",
+      "titleimage": "https://www.qmc.qa/img/MediaContents/3dc4f1aa-44a6-4dea-ab15-6a2b4fe2735d.png",
+      "poster": {
+        "id": 3,
+        "title": "عيون عليا",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2008,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "مسلسلات  شامية",
+        "image": "https://www.qmc.qa/img/MediaContents/2cfe3057-f5eb-4620-a03f-b909bcc41e42.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/9bc031b7-814a-4125-8607-ae492b14dcae.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392",
+          "url": "https://player.vimeo.com/external/802188553.m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392"
+        },
+        "sources": null
+      }
+    },
+    {
+      "id": 2,
+      "title": "برنامج سفرتنا",
+      "type": "serie",
+      "image": "https://www.qmc.qa/img/MediaContents/f995d083-922e-47ec-82ab-7625fbb54d11.jpg",
+      "titleimage": "https://www.qmc.qa/img/MediaContents/4f096217-d267-488a-84d0-55a0ab25ff28.png",
+      "poster": {
+        "id": 2,
+        "title": "برنامج سفرتنا",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2023,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "برامج تلفزيون قطر - رمضان 2023",
+        "image": "https://www.qmc.qa/img/MediaContents/c2515207-000e-49ef-a47b-51b286352655.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/df3c06cd-df62-4627-b7fa-fcf453053f90.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=913a0a76a1a45116daa6d6c1bf133a1ca7a2200d",
+          "url": "https://player.vimeo.com/external/810480260.m3u8?s=913a0a76a1a45116daa6d6c1bf133a1ca7a2200d"
+        },
+        "sources": null
+      }
+    },
+    {
+      "id": 1,
+      "title": "نجوم العلوم",
+      "type": "serie",
+      "image": "https://www.qmc.qa/img/MediaContents/1907f4f5-3567-4c7a-90c5-33bc8b591491.jpg",
+      "titleimage": "https://www.qmc.qa/img/MediaContents/14b3d75e-958d-495f-860b-b80fbf9046e7.png",
+      "poster": {
+        "id": 1,
+        "title": "نجوم العلوم",
+        "label": null,
+        "sublabel": null,
+        "type": "serie",
+        "description": "",
+        "year": 2022,
+        "imdb": 0.0,
+        "rating": 0,
+        "duration": "",
+        "downloadas": "",
+        "comment": false,
+        "playas": "",
+        "classification": "برامج تلفزيون قطر",
+        "image": "https://www.qmc.qa/img/MediaContents/16f5870b-dc7e-4c51-b487-7d8d280c39b8.jpg",
+        "cover": "https://www.qmc.qa/img/MediaContents/d0731347-426d-41b0-a8e6-d492af65ca92.jpg",
+        "genres": null,
+        "trailer": {
+          "id": 1,
+          "type": ".m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6",
+          "url": "https://player.vimeo.com/external/801505110.m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6"
+        },
+        "sources": null
+      }
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "title": "برامج تلفزيون قطر - رمضان 2023",
+      "posters": [
+        {
+          "id": 5,
+          "title": "إتقان",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/8ac36a49-dbee-4109-9af7-351515627c9a.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/7948b264-4116-4314-bfae-418fdb6ecc62.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=f22f6e4ddf6c498302237b67991fe434849710f0",
+            "url": "https://player.vimeo.com/external/810480458.m3u8?s=f22f6e4ddf6c498302237b67991fe434849710f0"
+          },
+          "sources": null
+        },
+        {
+          "id": 15,
+          "title": "برنامج سفرتنا",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/c2515207-000e-49ef-a47b-51b286352655.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/df3c06cd-df62-4627-b7fa-fcf453053f90.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=913a0a76a1a45116daa6d6c1bf133a1ca7a2200d",
+            "url": "https://player.vimeo.com/external/810480260.m3u8?s=913a0a76a1a45116daa6d6c1bf133a1ca7a2200d"
+          },
+          "sources": null
+        },
+        {
+          "id": 6,
+          "title": "ديننا",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/1d5e2baa-02f9-435f-954e-b14b732629d8.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/323f81e8-976e-4bdf-bdb2-5e67c41091d2.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=dbb7acd930391cf4bc79ff0804862422ae72d9c1",
+            "url": "https://player.vimeo.com/external/810486370.m3u8?s=dbb7acd930391cf4bc79ff0804862422ae72d9c1"
+          },
+          "sources": null
+        },
+        {
+          "id": 8,
+          "title": "شاعر رسول الله ",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/85adbf92-f7ab-496c-ba07-408308a52153.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/29576f0a-d341-4d03-bd5c-039197644c6c.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=4489b978eb705f2d1f22731c78cd36e334a4b78e",
+            "url": "https://player.vimeo.com/external/810480143.m3u8?s=4489b978eb705f2d1f22731c78cd36e334a4b78e"
+          },
+          "sources": null
+        },
+        {
+          "id": 9,
+          "title": "عمران",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/713a0797-59e8-4025-8784-ea8d8c46b8b4.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/5587fd21-d0a4-4ee0-be1f-98e235671baa.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=c34e0ce3b70940420cadda5dc052f5de5e4c3090",
+            "url": "https://player.vimeo.com/external/810479985.m3u8?s=c34e0ce3b70940420cadda5dc052f5de5e4c3090"
+          },
+          "sources": null
+        },
+        {
+          "id": 11,
+          "title": "فكر معانا ",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/f2453d98-4567-451c-9454-bc3306fc6efa.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/60436f11-706a-4c6d-af77-981206e82f76.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=bc43aea0ac1a54cddbca7fa8f9ae71aacb1b05a4",
+            "url": "https://player.vimeo.com/external/810480528.m3u8?s=bc43aea0ac1a54cddbca7fa8f9ae71aacb1b05a4"
+          },
+          "sources": null
+        },
+        {
+          "id": 12,
+          "title": "برنامج قطر الخيرية",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/7eced831-ba24-4991-9d95-7b492374d2d8.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/b88a694f-04c0-4d8b-8a84-f742b7fcaf58.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=fd8a664dbe48e28b337712a82fdff525e1479590",
+            "url": "https://player.vimeo.com/external/810479946.m3u8?s=fd8a664dbe48e28b337712a82fdff525e1479590"
+          },
+          "sources": null
+        },
+        {
+          "id": 13,
+          "title": "حروف من نور",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/5d7c52e3-59cc-4752-a9dc-471bc702fc8e.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/617015ef-89dc-4f54-9168-5ea66c395e48.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=1f29219e11a2ebb27946cda754f0620c8a87f8e1",
+            "url": "https://player.vimeo.com/external/812193857.m3u8?s=1f29219e11a2ebb27946cda754f0620c8a87f8e1"
+          },
+          "sources": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "مسلسلات تلفزيون  قطر  - رمضان 2023",
+      "posters": [
+        {
+          "id": 10,
+          "title": "مسلسل قالوا الأولين",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2023,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات تلفزيون  قطر  - رمضان 2023",
+          "image": "https://www.qmc.qa/img/MediaContents/507c3beb-3d8c-4190-b368-3086781886c8.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/401249f0-7c44-4565-adc3-60b1fde9fc3c.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=7104245ee3256734fe417a41d9c97bc91121be89",
+            "url": "https://player.vimeo.com/external/810480032.m3u8?s=7104245ee3256734fe417a41d9c97bc91121be89"
+          },
+          "sources": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "برامج تلفزيون قطر",
+      "posters": [
+        {
+          "id": 1,
+          "title": "نجوم العلوم",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2022,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "برامج تلفزيون قطر",
+          "image": "https://www.qmc.qa/img/MediaContents/16f5870b-dc7e-4c51-b487-7d8d280c39b8.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/d0731347-426d-41b0-a8e6-d492af65ca92.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6",
+            "url": "https://player.vimeo.com/external/801505110.m3u8?s=d3e8fa79ae737d234387db6db7c7bf57edb4a4e6"
+          },
+          "sources": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "أفلام وثائقية",
+      "posters": []
+    },
+    {
+      "id": 8,
+      "title": "برامج تلفزيون قطر - مونديال  2022",
+      "posters": []
+    },
+    {
+      "id": 7,
+      "title": "مسلسلات  تاريخية",
+      "posters": [
+        {
+          "id": 18,
+          "title": "قيامة أرطغرل",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2014,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  تاريخية",
+          "image": "https://www.qmc.qa/img/MediaContents/b88a6283-f15c-4fe9-b9d8-887fd6151a44.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/b53d5694-f11e-46d7-ba64-f495321cfc87.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=d316a3743792e0ebba3fbd5deb82deb7ba79b75c",
+            "url": "https://player.vimeo.com/external/805038440.m3u8?s=d316a3743792e0ebba3fbd5deb82deb7ba79b75c"
+          },
+          "sources": null
+        },
+        {
+          "id": 3,
+          "title": "عمر",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2012,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  تاريخية",
+          "image": "https://www.qmc.qa/img/MediaContents/5d6e6ee1-b2c7-40c0-9291-68bbaeb54404.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/ba02a728-793f-4b96-9ca7-b51065dc8043.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=ae4a720c77f5f3a6315973ecd6a9c9a4a07b2e09",
+            "url": "https://player.vimeo.com/external/802188507.m3u8?s=ae4a720c77f5f3a6315973ecd6a9c9a4a07b2e09"
+          },
+          "sources": null
+        },
+        {
+          "id": 17,
+          "title": "مسلسل القعقاع",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2010,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  تاريخية",
+          "image": "https://www.qmc.qa/img/MediaContents/c94e42b9-5495-4399-a0d4-562e1ecec6e2.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/f54a2489-48d8-4419-8e5d-b2e81bd4db21.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": "",
+            "url": ""
+          },
+          "sources": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "مسلسلات  تركية",
+      "posters": []
+    },
+    {
+      "id": 5,
+      "title": "مسلسلات  خليجية",
+      "posters": [
+        {
+          "id": 16,
+          "title": "تصانيف",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 1989,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  خليجية",
+          "image": "https://www.qmc.qa/img/MediaContents/f8a406a7-da5f-4f13-99a2-79b91c5db0c6.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/4c50f263-7002-4ce9-8129-a68d1cb5e305.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=c9b85938861ce2dfe6e507ca45e602b707f369ca",
+            "url": "https://player.vimeo.com/external/802188614.m3u8?s=c9b85938861ce2dfe6e507ca45e602b707f369ca"
+          },
+          "sources": null
+        },
+        {
+          "id": 14,
+          "title": "مسلسل بعد الشتات",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2004,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  خليجية",
+          "image": "https://www.qmc.qa/img/MediaContents/9f1ff561-c41f-462f-83c7-d9deb44867ad.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/0499b3b1-21d9-47b4-8beb-3616e29327f5.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=2466ad71f78294a10f4c186fb9d61b4cdf57f2a9",
+            "url": "https://player.vimeo.com/external/802188302.m3u8?s=2466ad71f78294a10f4c186fb9d61b4cdf57f2a9"
+          },
+          "sources": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "مسلسلات  شامية",
+      "posters": [
+        {
+          "id": 7,
+          "title": "الكندوش",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2016,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  شامية",
+          "image": "https://www.qmc.qa/img/MediaContents/8232be8a-5c45-475d-8b01-183c32e447dd.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/16e73dfe-e840-452b-b33f-1e3bfd84440c.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=1ccb16987e287cd501b9dff9e1edd9242a4efe6d",
+            "url": "https://player.vimeo.com/external/802188242.m3u8?s=1ccb16987e287cd501b9dff9e1edd9242a4efe6d"
+          },
+          "sources": null
+        },
+        {
+          "id": 4,
+          "title": "عيون عليا",
+          "label": null,
+          "sublabel": null,
+          "type": "serie",
+          "description": "",
+          "year": 2008,
+          "imdb": 0.0,
+          "rating": 0,
+          "duration": "",
+          "downloadas": "",
+          "comment": false,
+          "playas": "",
+          "classification": "مسلسلات  شامية",
+          "image": "https://www.qmc.qa/img/MediaContents/2cfe3057-f5eb-4620-a03f-b909bcc41e42.jpg",
+          "cover": "https://www.qmc.qa/img/MediaContents/9bc031b7-814a-4125-8607-ae492b14dcae.jpg",
+          "genres": null,
+          "trailer": {
+            "id": 1,
+            "type": ".m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392",
+            "url": "https://player.vimeo.com/external/802188553.m3u8?s=ebea282b0e2db25a8b213cf0d6c79618f02bd392"
+          },
+          "sources": null
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "برامج اذاعة القران",
+      "posters": []
+    },
+    {
+      "id": 2,
+      "title": "برامج اذاعة قطر",
+      "posters": []
+    }
+  ]
+}
